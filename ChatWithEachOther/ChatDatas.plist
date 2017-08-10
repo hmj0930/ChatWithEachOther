@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>我</string>
+		<key>content</key>
+		<string>干嘛呢</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>我</string>
+		<key>content</key>
+		<string>在吗</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>我</string>
+		<key>content</key>
+		<string>不在吗 ❓</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>他</string>
+		<key>content</key>
+		<string>在的 亲爱的 才看见 😘</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>他</string>
+		<key>content</key>
+		<string>咋啦</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>我</string>
+		<key>content</key>
+		<string>想你了</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>他</string>
+		<key>content</key>
+		<string>我也好想你啊 亲爱的 我好无聊啊 整天都感觉提不起精神来 觉也不够睡 作业也不会写 老是被老师骂 关键是都没钱买买买 也没钱出去玩玩玩 好想出去旅游啊 </string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>我</string>
+		<key>content</key>
+		<string>人生苦短 多出去逛逛吧 我带着你 你带着信用卡</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>他</string>
+		<key>content</key>
+		<string>亲爱的 我连信用卡都没有😭</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>我</string>
+		<key>content</key>
+		<string>那就带着蚂蚁花呗🐜</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>他</string>
+		<key>content</key>
+		<string>你确定2000的额度就可以出去浪🌊了嘛</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>我</string>
+		<key>content</key>
+		<string>我还有2000啊</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>他</string>
+		<key>content</key>
+		<string>好啊好啊 我看天气预报明天天晴 我们出去玩吧 去哪好呢</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>我</string>
+		<key>content</key>
+		<string>你知道我最想去哪里吗</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>他</string>
+		<key>content</key>
+		<string>不知道诶 是哪啊</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>我</string>
+		<key>content</key>
+		<string>你的心里 哈哈</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>她</string>
+		<key>content</key>
+		<string>讨厌啦 人家会害羞的啦</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>宿管阿姨</string>
+		<key>content</key>
+		<string>门口两个男生鬼鬼祟祟的干嘛呢 大半夜的快回宿舍 要熄灯了 小心扣分！！！</string>
+	</dict>
+</array>
+</plist>
